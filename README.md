@@ -1,3 +1,3 @@
 # bharatplywood
-this is my git repositor 
+this is my git repository
 author - devendra kumawat 
